@@ -9,7 +9,7 @@ Egyptian_Mau_145.jpg
 Egyptian_Mau_167.jpg
 Egyptian_Mau_177.jpg
 
-There are 3 .mat files, they were dropped.
+There are 3 .mat files, they were converted to jpg (or duplicate .mat were present?).
 Abyssinian_100.mat
 Abyssinian_101.mat
 Abyssinian_102.mat
